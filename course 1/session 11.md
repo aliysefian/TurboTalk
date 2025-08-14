@@ -4,7 +4,7 @@ This document provides translations, meanings, and tips for improving your Engli
 
 ## 1. I am tired of ## ing
 
-- **Persian Translation**: من از  کردن خسته شدم (Man az ## kardan khaste shodam)
+- **Persian Translation**: من   خسته شدم (Man az ##  khaste shodam)
 - **Meaning**: This phrase indicates frustration or exhaustion with a repetitive or ongoing activity. The "##ing" represents a verb in its gerund form (e.g., "waiting," "studying"). For example, "I am tired of waiting" means you’re frustrated with waiting for something.
 - **Usage Tips**:
     - Replace "##ing" with a gerund verb, e.g., "I am tired of studying" (من از درس خوندن خسته شدم).
