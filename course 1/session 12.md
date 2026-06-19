@@ -1,153 +1,216 @@
-# English Sentences and Phrases with Persian Translations and Learning Tips
+# آموزش مکالمه نچرال - جلسه ۱۲: آموزش، توصیف افراد و اعضای خانواده
 
-This document provides translations, meanings, and tips for improving your English based on the provided sentences and phrases related to teaching, descriptions, and family relationships. Each section includes the phrase, its Persian translation, an explanation of its meaning, and suggestions for usage to help you learn English effectively.
+## هدف درس
 
-## 1. I want to teach you new things
+در این درس یاد می‌گیریم چطور درباره آموزش، تعریف کردن از چیزها، دستور دادن مودبانه، و اعضای خانواده صحبت کنیم.
 
-- **Persian Translation**: می‌خوام چیزهای جدید بهت یاد بدم (Mikhvam chizhay-e jadid behet yad bedam)
-- **Meaning**: Expresses your desire to share new knowledge or skills with someone, often in an educational or mentoring context.
-- **Usage Tips**:
-    - Use in teaching or mentoring situations, e.g., with friends, students, or family.
-    - Specify what you’re teaching for clarity, e.g., “I want to teach you new English words.”
-    - Example: “I want to teach you new things about cooking Persian food.”
-- **Learning Tip**: Practice verbs related to teaching, like “explain,” “show,” or “learn.” Try sentences like “I want to teach you how to play chess.”
+---
 
-## 2. It’s amazing
+## ۱. آموزش دادن و یاد گرفتن
 
-- **Persian Translation**: این شگفت‌انگیزه (In shegeft-angize)
-- **Meaning**: Describes something as impressive, wonderful, or surprising in a positive way.
-- **Usage Tips**:
-    - Use to express enthusiasm about an experience, object, or event.
-    - Can be paired with specific nouns, e.g., “This view is amazing!”
-    - Example: “I saw the sunset in Esfahan, and it’s amazing.”
-- **Learning Tip**: Learn synonyms like “wonderful,” “awesome,” or “fantastic.” Practice describing things, e.g., “This book is amazing because…”
+```text
+I want to teach you new things.
+می‌خواهم چیزهای جدیدی به تو یاد بدهم.
+```
 
-## 3. Listen carefully
+بعد از `want to` فعل ساده می‌آید:
 
-- **Persian Translation**: با دقت گوش کن (Ba deqqat goosh kon)
-- **Meaning**: A command to pay close attention to what is being said or heard, often used in teaching or serious conversations.
-- **Usage Tips**:
-    - Use in situations requiring focus, like instructions or advice.
-    - Add “please” for politeness, e.g., “Please listen carefully.”
-    - Example: “Listen carefully, I’m explaining the rules.”
-- **Learning Tip**: Practice imperatives (commands) like “Look closely,” “Speak slowly,” or “Read carefully.” Role-play a teacher giving instructions.
+```text
+want to teach
+want to learn
+want to listen
+```
 
-## 4. He is handsome
+---
 
-- **Persian Translation**: او خوش‌تیپه (Ou khosh-tipe)
-- **Meaning**: Describes a man as attractive or good-looking in appearance.
-- **Usage Tips**:
-    - Use in casual or complimentary contexts to describe physical appearance.
-    - Can be adapted for women, e.g., “She is beautiful.”
-    - Example: “My cousin is so handsome in his new suit.”
-- **Learning Tip**: Learn adjectives for appearance, like “beautiful,” “cute,” or “charming.” Practice describing people, e.g., “She is tall and elegant.”
+## ۲. توصیف چیزها و افراد
 
-## 5. Uncle مرد‌های فامیل و فرقی نداره
+```text
+It's amazing.
+این شگفت‌انگیز است.
+```
 
-- **Persian Translation**: دایی / عمو (Dayi / Amoo)
-- **Meaning**: “Uncle” refers to the brother of a parent (maternal: دایی; paternal: عمو). The Persian phrase “مرد‌های فامیل و فرقی نداره” (Men of the family, it doesn’t matter) seems incomplete but may imply referring to male relatives broadly. Here, I’ll focus on “uncle” as a family term.
-- **Usage Tips**:
-    - Specify “maternal uncle” (دایی) or “paternal uncle” (عمو) in Persian for clarity.
-    - Use in family contexts, e.g., “My uncle is coming to visit.”
-    - Example: “My uncle gave me advice about school.”
-- **Learning Tip**: Learn family vocabulary like “aunt,” “cousin,” or “grandfather.” Practice sentences like “My uncle lives in Tehran.”
+برای مردها:
 
-## 6. Auntie
+```text
+He is handsome.
+او خوش‌تیپ است.
+```
 
-- **Persian Translation**: خاله / عمه (Khale / Amme)
-- **Meaning**: Refers to the sister of a parent (maternal: خاله; paternal: عمه) or sometimes a close family friend.
-- **Usage Tips**:
-    - Use to address or describe a female relative, e.g., “Auntie helped me.”
-    - Specify the relationship in Persian for clarity, e.g., خاله (maternal aunt).
-    - Example: “Auntie baked cookies for the party.”
-- **Learning Tip**: Practice family terms in sentences, e.g., “My auntie and uncle are visiting.” Learn cultural differences in addressing relatives.
+برای زن‌ها معمولا:
 
-## 7. Cousin
+```text
+She is beautiful.
+او زیباست.
+```
 
-- **Persian Translation "**: پسرعمو / پسرخاله / دخترعمو / دخترخاله (Pesar-amoo / Pesar-khale / Dokhtar-amoo / Dokhtar-khale)
-- **Meaning**: A first cousin, someone who shares the same grandparents, either on the maternal or paternal side.
-- **Usage Tips**:
-    - In English, “cousin” is gender-neutral; in Persian, specify gender and side (e.g., پسرخاله for male maternal cousin).
-    - Use in family contexts, e.g., “My cousin and I grew up together.”
-    - Example: “My cousin is getting married next month.”
-- **Learning Tip**: Practice family relationships, e.g., “My cousin is my best friend.” Learn terms like “sibling” or “niece.”
+---
 
-## 8. Ex-wife or ex-boyfriend
+## ۳. دستور مودبانه
 
-- **Persian Translation**: همسر سابق / دوست‌پسر سابق (Hamsar-e sabegh / Doost-pesar-e sabegh)
-- **Meaning**: Refers to a former spouse (ex-wife) or romantic partner (ex-boyfriend) from a past relationship.
-- **Usage Tips**:
-    - Use “ex-” for any former relationship, e.g., “ex-husband” or “ex-girlfriend.”
-    - Be sensitive to context, as it may carry emotional weight.
-    - Example: “My ex-boyfriend still calls me sometimes.”
-- **Learning Tip**: Learn relationship terms like “partner,” “spouse,” or “fiancé.” Practice describing past events, e.g., “My ex-wife was a teacher.”
+```text
+Listen carefully.
+با دقت گوش کن.
+```
 
-## 9. In-law فامیل همسر
+برای مودبانه‌تر شدن:
 
-- **Persian Translation**: خویشاوندان همسر (Kheishavandan-e hamsar)
-- **Meaning**: Refers to relatives by marriage, such as mother-in-law, father-in-law, or sister-in-law.
-- **Usage Tips**:
-    - Specify the relationship, e.g., “My mother-in-law” (مادرشوهر/مادرزن).
-    - Use in family or social contexts to describe spouse’s relatives.
-    - Example: “My in-laws are coming for dinner.”
-- **Learning Tip**: Practice specific in-law terms, e.g., “brother-in-law” or “father-in-law.” Try sentences like “My in-laws live in Shiraz.”
+```text
+Please listen carefully.
+لطفا با دقت گوش کن.
+```
 
-## 10. He is my stepson or stepmom
+---
 
-- **Persian Translation**: او پسرخوانده‌ام / او نامادری‌ام است (Ou pesarkhande-am ast / Ou namadari-am ast)
-- **Meaning**: Refers to a child (stepson) or parent (stepmom) from a step-parent relationship, typically through remarriage.
-- **Usage Tips**:
-    - Use “step-” to indicate non-biological family ties, e.g., “stepdaughter” or “stepfather.”
-    - Clarify context, as it may be sensitive.
-    - Example: “He is my stepson, and we get along well.”
-- **Learning Tip**: Learn blended family terms like “stepbrother” or “stepsister.” Practice sentences like “My stepmom is very kind.”
+## ۴. اعضای خانواده در انگلیسی
 
-## 11. Grandpa or grandchildren
+در انگلیسی بعضی کلمات خانواده ساده‌تر از فارسی هستند. مثلا `cousin` هم برای دخترخاله است، هم پسرخاله، هم دخترعمو، هم پسرعمو.
 
-- **Persian Translation**: پدربزرگ / نوه‌ها (Pedarbozorg / Nave-ha)
-- **Meaning**: “Grandpa” is a grandfather (father’s or mother’s father), and “grandchildren” are the children of one’s children.
-- **Usage Tips**:
-    - Use “grandpa” (پدربزرگ) or “grandma” (مادربزرگ) for grandparents; “grandchildren” for multiple generations below.
-    - Informal terms like “granddad” or “granny” are also common.
-    - Example: “My grandpa tells great stories to his grandchildren.”
-- **Learning Tip**: Practice family hierarchy terms like “grandmother” or “great-grandchild.” Describe family, e.g., “My grandpa lives with us.”
+| English | فارسی |
+|---|---|
+| `Uncle` | عمو / دایی |
+| `Aunt / Auntie` | عمه / خاله |
+| `Cousin` | دخترعمو، پسرعمو، دخترخاله، پسرخاله |
+| `Grandpa` | پدربزرگ |
+| `Grandchildren` | نوه‌ها |
+| `Niece` | دختر خواهر یا دختر برادر |
+| `Nephew` | پسر خواهر یا پسر برادر |
 
-## 12. Niece خواهر زاده
+---
 
-- **Persian Translation**: خواهرزاده (Khahar-zade)
-- **Meaning**: Refers to the daughter of your sibling (brother or sister).
-- **Usage Tips**:
-    - Use in family contexts to describe your sibling’s daughter, e.g., “My niece is five years old.”
-    - Gender-specific in English; Persian uses the same term for niece and nephew but can clarify with context.
-    - Example: “My niece loves drawing and always shows me her art.”
-- **Learning Tip**: Practice family terms like “nephew,” “sibling,” or “cousin.” Try sentences like “My niece and I play games together.”
+## ۵. رابطه‌های خانوادگی خاص
 
-## 13. Nephew برادر زاده
+`Ex-` یعنی سابق.
 
-- **Persian Translation**: برادرزاده (Baradar-zade)
-- **Meaning**: Refers to the son of your sibling (brother or sister).
-- **Usage Tips**:
-    - Use in family contexts to describe your sibling’s son, e.g., “My nephew plays soccer.”
-    - In Persian, “خواهرزاده” or “برادرزاده” can be used interchangeably, but context clarifies gender.
-    - Example: “My nephew is visiting us this weekend.”
-- **Learning Tip**: Practice distinguishing “niece” and “nephew” in English. Try sentences like “My nephew and niece are twins.”
+```text
+Ex-wife
+همسر سابق
+```
 
-## General Tips for Improving Your English
+```text
+Ex-boyfriend
+دوست‌پسر سابق
+```
 
-1. **Practice Family Vocabulary**: Use terms like “uncle,” “auntie,” “niece,” or “nephew” in conversations about your family to build fluency.
-2. **Expand Descriptions**: For phrases like “It’s amazing” or “He is handsome,” learn more adjectives (e.g., “stunning,” “attractive”) to diversify your speech.
-3. **Role-Play Scenarios**: Practice phrases like “Listen carefully” or “I want to teach you new things” by pretending to be a teacher or guide.
-4. **Listening Skills**: Watch English family dramas or vlogs to hear terms like “cousin,” “ex-wife,” or “niece” in context. Mimic pronunciation from native speakers.
-5. **Writing Exercise**: Write a short story about a family event using these phrases, e.g., “My grandpa said, ‘Listen carefully, it’s amazing!’ My niece and nephew planned the party with my auntie.”
-6. **Grammar Focus**: Pay attention to possessive forms (e.g., “my stepson,” “my niece”) and contractions (e.g., “it’s” vs. “its”). Practice with exercises on sites like BBC Learning English.
+`In-law` یعنی فامیل همسر.
 
-## Practice Exercise
+```text
+My in-laws are coming for dinner.
+فامیل‌های همسرم برای شام می‌آیند.
+```
 
-Create a dialogue or story using these phrases. Example:
+`Step-` یعنی ناتنی یا مربوط به ازدواج جدید خانواده.
 
-> “Listen carefully, I want to teach you new things about our family,” said Grandpa.  
-> “It’s amazing!” replied my niece. “My cousin is handsome, and my auntie is hosting a party.”  
-> “My in-laws and ex-wife will be there,” Grandpa added.  
-> “Even my stepson and nephew are coming!”
+```text
+He is my stepson.
+او پسرخوانده / پسر ناتنی من است.
+```
 
-This exercise will help you use the phrases naturally and improve your conversational skills.
+```text
+She is my stepmom.
+او نامادری من است.
+```
+
+---
+
+## ۶. مثال‌های بیشتر با ترجمه فارسی
+
+| English | فارسی |
+|---|---|
+| `I want to teach you English.` | می‌خواهم به تو انگلیسی یاد بدهم. |
+| `This view is amazing.` | این منظره شگفت‌انگیز است. |
+| `Please listen carefully.` | لطفا با دقت گوش کن. |
+| `My uncle lives in Tehran.` | عمو/دایی من در تهران زندگی می‌کند. |
+| `My cousin is my best friend.` | پسر/دخترخاله یا عمویم بهترین دوست من است. |
+| `My niece is five years old.` | خواهرزاده/برادرزاده دخترم پنج ساله است. |
+| `My nephew plays soccer.` | خواهرزاده/برادرزاده پسرم فوتبال بازی می‌کند. |
+
+---
+
+## ۷. نکات نچرال انگلیسی
+
+- `Auntie` صمیمی‌تر از `aunt` است.
+- `Cousin` در انگلیسی جنسیت و سمت خانواده را مشخص نمی‌کند.
+- `Ex-` ممکن است موضوع حساسی باشد؛ با دقت استفاده کن.
+- `Listen carefully` بدون `please` می‌تواند دستوری باشد.
+
+---
+
+## ۸. اشتباهات رایج
+
+### اشتباه ۱: استفاده از cousin برای فقط یک نوع فامیل
+
+در انگلیسی همه این‌ها `cousin` هستند: پسرعمو، دخترعمو، پسرخاله، دخترخاله.
+
+### اشتباه ۲: قاطی کردن niece و nephew
+
+- `Niece` دختر خواهر/برادر
+- `Nephew` پسر خواهر/برادر
+
+### اشتباه ۳: فراموش کردن to بعد از want
+
+غلط:
+
+```text
+I want teach you.
+```
+
+درست:
+
+```text
+I want to teach you.
+```
+
+---
+
+## ۹. تمرین مکالمه
+
+1. `What do you want to teach someone?`
+2. `What is amazing in your city?`
+3. `Who is handsome in your family?`
+4. `How many cousins do you have?`
+5. `Do you have a niece or nephew?`
+6. `Do your in-laws live near you?`
+
+نمونه جواب:
+
+```text
+I want to teach my friend new English words.
+```
+
+---
+
+## ۱۰. خلاصه درس
+
+ساختارهای مهم:
+
+```text
+I want to teach you new things.
+Please listen carefully.
+He is handsome.
+My cousin is kind.
+```
+
+---
+
+## ۱۱. کلمات جدید این درس
+
+| English word/phrase | معنی فارسی | Example sentence |
+|---|---|---|
+| **Teach** | آموزش دادن | `I want to teach you English.` |
+| **New things** | چیزهای جدید | `I learn new things every day.` |
+| **Amazing** | شگفت‌انگیز | `It's amazing.` |
+| **Listen carefully** | با دقت گوش کن | `Please listen carefully.` |
+| **Handsome** | خوش‌تیپ | `He is handsome.` |
+| **Uncle** | عمو / دایی | `My uncle is kind.` |
+| **Aunt / Auntie** | عمه / خاله | `My auntie baked cookies.` |
+| **Cousin** | دختر/پسر عمو یا خاله | `My cousin is my friend.` |
+| **Ex-wife** | همسر سابق | `His ex-wife is a teacher.` |
+| **Ex-boyfriend** | دوست‌پسر سابق | `Her ex-boyfriend called her.` |
+| **In-laws** | فامیل همسر | `My in-laws are friendly.` |
+| **Stepson** | پسرخوانده / پسر ناتنی | `He is my stepson.` |
+| **Stepmom** | نامادری | `My stepmom is kind.` |
+| **Grandpa** | پدربزرگ | `My grandpa tells stories.` |
+| **Grandchildren** | نوه‌ها | `He loves his grandchildren.` |
+| **Niece** | دختر خواهر/برادر | `My niece loves drawing.` |
+| **Nephew** | پسر خواهر/برادر | `My nephew plays soccer.` |

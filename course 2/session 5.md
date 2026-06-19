@@ -1,77 +1,314 @@
-# آموزش مکالمه نچرال - جلسه ۵: سوالات دابلیواچ (Wh-Questions)
+# آموزش مکالمه نچرال - جلسه ۵: سوالات Wh
 
-در این جلسه یاد می‌گیریم که چگونه با استفاده از کلمات پرسشی (مثل کی، کجا، چی) سوالات کامل‌تری بسازیم. این کلمات مانند یک **زنجیر** به ساختار سوالی که در جلسه قبل یاد گرفتیم (Do/Does) متصل می‌شوند [۱، ۲].
+هدف این جلسه این است که بتوانی سوال‌های کامل‌تر و طبیعی‌تر بسازی؛ مثلا بپرسی: «کجا؟»، «کی؟»، «چطور؟»، «چی؟»، «کدام؟» و «چه کسی؟»
 
----
-
-## ۱. لیست کلمات پرسشی (Wh-Words)
-
-این کلمات همیشه در **ابتدای جمله** می‌آیند [۱، ۵]:
-
-- **What:** چه چیزی / چی [۱].
-- **What time:** چه ساعتی (دقیق‌تر از when) [۲، ۶].
-- **When:** چه وقت / کی [۲، ۵].
-- **Where:** کجا (برای مکان و لوکیشن) [۳، ۶].
-- **How:** چطور / چگونه [۳، ۵، ۷].
-- **Who:** چه کسی / کی [۳، ۴].
-- **Which:** کدام / کدوم یک [۳، ۸].
-- **Which one / Which ones:** کدوم یکی / کدوم یکی‌ها [۸].
+در جلسه قبل یاد گرفتیم چطور با `Do / Does` و `Am / Is / Are` سوال بسازیم. در این جلسه فقط یک کلمه پرسشی را اول همان سوال اضافه می‌کنیم.
 
 ---
 
-## ۲. گرامر: فرمول ساخت سوال
+## ۱. کلمات پرسشی مهم
 
-برای ساختن سوال با این کلمات، کافی است آن‌ها را قبل از ساختار سوالی جلسه قبل (Do/Does یا Am/Is/Are) قرار دهید [۱، ۵].
+این کلمات معمولا اول سوال می‌آیند:
 
-**فرمول:** `[بقیه جمله] + [فعل اصلی بصورت ساده] + [فاعل] + [Do / Does] + [Wh-Word]`
+| کلمه | معنی | مثال ساده |
+|---|---|---|
+| **What** | چی / چه چیزی | `What do you want?` |
+| **What time** | چه ساعتی | `What time do you wake up?` |
+| **When** | کی / چه وقت | `When do you go to the gym?` |
+| **Where** | کجا | `Where do you live?` |
+| **How** | چطور / چگونه | `How do you go to school?` |
+| **Who** | چه کسی / کی | `Who are you?` |
+| **Which** | کدام | `Which one do you like?` |
 
-### مثال‌ها:
+نکته: `What time` برای ساعت دقیق است، اما `When` کلی‌تر است.
 
-- **با Do:**
-    - `?How do you go to school` (چطور میری مدرسه؟) [۵].
-    - `?Where do you work` (کجا کار می‌کنی؟) [۶].
-    - `?What do you do` (کارت چیه؟ / چیکار می‌کنی؟) [۷].
-- **با Does (قانون حذف S فعل):**
-    - `?When does she wake up` (او کی بیدار می‌شود؟) - دقت کنید که `wakes` به `wake` تبدیل شد [۶].
-    - `?Where does Sarah go` (سارا کجا می‌رود؟) - `goes` به `go` تبدیل شد [۷].
-- **با Am/Is/Are:**
-    - `?Who are you` (تو کی هستی؟) [۵].
-    - `?Where is Harvey` (هاروی کجاست؟) [۴].
-    - `?How is the weather` (هوا چطوره؟) [۳، ۵].
-
----
-
-## ۳. نکات طلایی تلفظ (Pronunciation)
-
-- **تلفظ What:** در انگلیسی نچرال، لب‌ها گرد شده و صدای "و" (W) شنیده می‌شود، نه "وات" با صدای "V". دندان به لب نمی‌خورد [۲].
-- **تفاوت Who و How:**
-    - **Who (هو):** یعنی چه کسی [۳].
-    - **How (هاو):** یعنی چطور [۳].
-    - اشتباه گرفتن این دو در مکالمه بسیار رایج است، پس روی آن‌ها تمرین کنید [۳].
+- `What time do you wake up?` یعنی دقیقا چه ساعتی بیدار می‌شوی؟
+- `When do you wake up?` یعنی کی بیدار می‌شوی؟ جواب می‌تواند «صبح‌ها»، «زود»، یا «ساعت ۷» باشد.
 
 ---
 
-## ۴. لغات و اصطلاحات جدید (Vocabulary)
+## ۲. فرمول اصلی سوال با Wh
 
-- **Location:** مکان / موقعیت [۲، ۳].
-- **Weather:** آب و هوا [۳، ۵].
-- **Gym:** باشگاه [۶].
-- **Wake up:** بیدار شدن [۵، ۷].
-- **Vision:** بینش / تصویر (در جمله "I had a vision") [۴].
-- **Feeling:** احساس کردن (مثلاً: ?How are you feeling today) [۴].
-- **Scars / Tearing:** زخم‌ها / اشک ریختن یا پاره کردن (مربوط به متن آهنگ پخش شده) [۴].
+فرمول درست این است:
+
+```text
+Wh-word + do/does + subject + main verb + ...?
+```
+
+یعنی:
+
+```text
+کلمه پرسشی + do/does + فاعل + فعل ساده + بقیه جمله؟
+```
+
+مثال:
+
+```text
+Where do you work?
+کجا کار می‌کنی؟
+```
+
+```text
+When does she wake up?
+او کی بیدار می‌شود؟
+```
+
+### قانون مهم Does
+
+وقتی از `does` استفاده می‌کنیم، فعل اصلی باید ساده باشد. یعنی `s` یا `es` از فعل حذف می‌شود.
+
+- درست: `Where does Sarah go?`
+- غلط: `Where does Sarah goes?`
+
+- درست: `When does she wake up?`
+- غلط: `When does she wakes up?`
 
 ---
 
-## ۵. عبارات نچرال و کاربردی
+## ۳. سوال با Do
 
-- **?Who do you think you are:** فکر می‌کنی کی هستی؟ (عبارتی معروف که در آهنگ‌ها هم زیاد استفاده می‌شود) [۴، ۵].
-- **?Which one:** کدوم یکی؟ [۴، ۸].
-- **?How about her life:** زندگی‌اش چطوره؟ [۸].
-- **?How do you go to work:** چطور میری سر کار؟ [۷].
+برای `I / you / we / they` از `do` استفاده می‌کنیم.
+
+| جمله فارسی | جمله انگلیسی |
+|---|---|
+| کجا زندگی می‌کنی؟ | `Where do you live?` |
+| چطور میری مدرسه؟ | `How do you go to school?` |
+| کی میری باشگاه؟ | `When do you go to the gym?` |
+| چه ساعتی بیدار می‌شی؟ | `What time do you wake up?` |
+| کارت چیه؟ / چیکار می‌کنی؟ | `What do you do?` |
+| کدام را دوست داری؟ | `Which one do you like?` |
+
+نکته مهم: `What do you do?` معمولا یعنی «شغلت چیه؟» یا «در زندگی/کار چه کاری انجام می‌دهی؟»
 
 ---
 
-## ۶. تکنیک تمرین (Study Tip)
+## ۴. سوال با Does
 
-بهترین روش برای یادگیری این مبحث سخت، **تکرار و استپ زدن (Shadowing)** است. ویدیوها یا آهنگ‌ها را گوش دهید، استپ بزنید، تکرار کنید و سعی کنید جملات را حفظ کنید تا ساختار Do و Does در ذهنتان جا بیفتد [۶].
+برای `he / she / it` و اسم یک نفر از `does` استفاده می‌کنیم.
+
+| جمله فارسی | جمله انگلیسی |
+|---|---|
+| او کجا زندگی می‌کند؟ | `Where does she live?` |
+| سارا کجا می‌رود؟ | `Where does Sarah go?` |
+| او کی بیدار می‌شود؟ | `When does he wake up?` |
+| مادرت چه ساعتی کار را شروع می‌کند؟ | `What time does your mother start work?` |
+| او چطور به محل کار می‌رود؟ | `How does he go to work?` |
+| او کدام یکی را دوست دارد؟ | `Which one does she like?` |
+
+دقت کن:
+
+- `She lives in Tehran.` جمله خبری است.
+- `Where does she live?` جمله سوالی است.
+
+در سوال، فعل `lives` تبدیل می‌شود به `live`.
+
+---
+
+## ۵. سوال با Am / Is / Are
+
+اگر فعل اصلی جمله `am / is / are` باشد، دیگر به `do / does` نیاز نداریم.
+
+فرمول:
+
+```text
+Wh-word + am/is/are + subject + ...?
+```
+
+مثال‌ها:
+
+| جمله فارسی | جمله انگلیسی |
+|---|---|
+| تو کی هستی؟ | `Who are you?` |
+| هاروی کجاست؟ | `Where is Harvey?` |
+| هوا چطوره؟ | `How is the weather?` |
+| امروز حالت چطوره؟ | `How are you feeling today?` |
+| مشکل چیه؟ | `What is the problem?` |
+
+نکته: با `am / is / are` نگوییم `do`.
+
+- درست: `Where is Harvey?`
+- غلط: `Where does Harvey is?`
+
+---
+
+## ۶. تفاوت سوال‌های شبیه هم
+
+### What یا Which؟
+
+از `what` وقتی استفاده می‌کنیم که انتخاب‌ها مشخص نیستند یا خیلی باز هستند.
+
+```text
+What color do you like?
+چه رنگی دوست داری؟
+```
+
+از `which` وقتی استفاده می‌کنیم که چند گزینه مشخص داریم.
+
+```text
+Which color do you like, red or blue?
+کدام رنگ را دوست داری، قرمز یا آبی؟
+```
+
+### Who یا How؟
+
+- `Who` یعنی چه کسی.
+- `How` یعنی چطور.
+
+```text
+Who is your teacher?
+معلمت کیه؟
+```
+
+```text
+How is your teacher?
+معلمت چطوره؟
+```
+
+---
+
+## ۷. تلفظ نچرال
+
+### What
+
+در `what` صدای اول شبیه `w` است، نه `v`. یعنی لب‌ها کمی گرد می‌شوند. دندان روی لب نمی‌آید.
+
+- بهتر: `what`
+- نه مثل فارسی: `vat`
+
+### Do you
+
+در مکالمه طبیعی، `do you` خیلی وقت‌ها سریع‌تر شنیده می‌شود:
+
+```text
+Where do you live?
+Where d'you live?
+```
+
+لازم نیست از اول خیلی سریع حرف بزنی. اول درست و واضح بگو، بعد کم‌کم طبیعی‌ترش کن.
+
+---
+
+## ۸. عبارات کاربردی این جلسه
+
+| عبارت | معنی |
+|---|---|
+| `Who do you think you are?` | فکر می‌کنی کی هستی؟ |
+| `Which one?` | کدوم یکی؟ |
+| `How about her life?` | زندگی‌اش چطوره؟ |
+| `How do you go to work?` | چطور میری سر کار؟ |
+| `What do you do?` | شغلت چیه؟ / چیکار می‌کنی؟ |
+| `How are you feeling today?` | امروز چه احساسی داری؟ |
+
+---
+
+## ۹. اشتباهات رایج
+
+### اشتباه ۱: آوردن s بعد از does
+
+- غلط: `Where does she lives?`
+- درست: `Where does she live?`
+
+### اشتباه ۲: استفاده از do با is
+
+- غلط: `Where does Harvey is?`
+- درست: `Where is Harvey?`
+
+### اشتباه ۳: جای اشتباه کلمه پرسشی
+
+- غلط: `Do you live where?`
+- درست: `Where do you live?`
+
+### اشتباه ۴: قاطی کردن Who و How
+
+- `Who are you?` یعنی تو کی هستی؟
+- `How are you?` یعنی حالت چطوره؟
+
+---
+
+## ۱۰. تمرین مکالمه
+
+به این سوال‌ها با جواب کامل پاسخ بده. بهتر است جواب‌ها را بلند بگویی.
+
+1. `Where do you live?`
+2. `What time do you wake up?`
+3. `When do you go to the gym?`
+4. `How do you go to work or school?`
+5. `What do you do?`
+6. `Which one do you like, tea or coffee?`
+7. `Who is your best friend?`
+8. `How is the weather today?`
+
+نمونه جواب:
+
+```text
+Where do you live?
+I live in Tehran.
+```
+
+```text
+How do you go to work?
+I go to work by car.
+```
+
+---
+
+## ۱۱. تمرین تبدیل جمله خبری به سوال
+
+جمله خبری را بخوان و سوال Wh بساز:
+
+| جمله خبری | سوال |
+|---|---|
+| `You live in Tehran.` | `Where do you live?` |
+| `She wakes up at 7.` | `What time does she wake up?` |
+| `They go to school by bus.` | `How do they go to school?` |
+| `Sarah works in a hospital.` | `Where does Sarah work?` |
+| `He likes the blue one.` | `Which one does he like?` |
+
+---
+
+## ۱۲. خلاصه خیلی مهم
+
+برای ساخت سوال‌های Wh این سه مدل را حفظ کن:
+
+```text
+Where do you live?
+Wh + do + subject + verb?
+```
+
+```text
+Where does she live?
+Wh + does + subject + verb?
+```
+
+```text
+Where is Harvey?
+Wh + is/are/am + subject?
+```
+
+اگر فاعل `he / she / it` است، از `does` استفاده کن و فعل را ساده بیاور.
+
+اگر جمله `am / is / are` دارد، دیگر `do / does` نیاور.
+
+---
+
+## ۱۳. کلمات جدید این درس
+
+این بخش را چند بار مرور کن و با هر کلمه یک جمله شخصی بساز.
+
+| کلمه | معنی | مثال |
+|---|---|---|
+| **What** | چی / چه چیزی | `What do you want?` |
+| **What time** | چه ساعتی | `What time do you wake up?` |
+| **When** | کی / چه وقت | `When do you go to the gym?` |
+| **Where** | کجا | `Where do you live?` |
+| **How** | چطور / چگونه | `How do you go to work?` |
+| **Who** | چه کسی / کی | `Who is your teacher?` |
+| **Which** | کدام | `Which one do you like?` |
+| **Location** | مکان / موقعیت | `What is your location?` |
+| **Weather** | آب و هوا | `How is the weather?` |
+| **Gym** | باشگاه | `I go to the gym.` |
+| **Wake up** | بیدار شدن | `I wake up at 7.` |
+| **Feeling** | احساس | `How are you feeling today?` |
+| **Vision** | تصویر ذهنی / بینش | `I had a vision.` |
+| **Scar** | جای زخم | `I have a scar.` |
+| **Tear** | اشک / پاره کردن | `Tears are falling.` |

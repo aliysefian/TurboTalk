@@ -1,148 +1,229 @@
-# Social English Phrases for Persian Learners
+# آموزش مکالمه نچرال - جلسه ۱۸: دوست‌یابی، محیط دوستانه و مسئولیت‌ها
 
-This document provides detailed explanations of English words and phrases related to social interactions and responsibilities, including their Persian translations, meanings, usage, synonyms, pronunciation, part of speech, common collocations, cultural notes, example sentences, and practice questions to aid English learning for Persian speakers.
+## هدف درس
 
----
-
-## 1. Making friends
-
-- **Persian Translation**: دوست پیدا کردن (Doost peyda kardan)
-- **Part of Speech**: Phrase (gerund phrase)
-- **Meaning**: The act of forming new friendships or social connections.
-- **Usage**: Used to describe the process of meeting and bonding with new people.
-- **Synonyms**: Building friendships, befriending others, forming friendships.
-- **Pronunciation**: /ˈmeɪkɪŋ frɛndz/
-- **Common Collocations**: Making friends with, good at making friends, making new friends.
-- **Cultural Note**: In English-speaking cultures, making friends often involves shared interests, open communication, and casual interactions, such as at school or events.
-- **Example**: "Making friends in a new city can be challenging but rewarding."
-- **Practice Question**: Write a sentence about how you enjoy making friends in a specific setting.
+در این درس یاد می‌گیریم درباره دوست پیدا کردن، محیط کاری یا اجتماعی، آدم‌های مهربان، وظایف، و قول دادن صحبت کنیم.
 
 ---
 
-## 2. Friendly atmosphere
+## ۱. دوست پیدا کردن
 
-- **Persian Translation**: فضای دوستانه (Fazay-e doostane)
-- **Part of Speech**: Noun phrase
-- **Meaning**: A welcoming, warm, and pleasant environment that encourages positive social interactions.
-- **Usage**: Used to describe a place or situation where people feel comfortable and sociable.
-- **Synonyms**: Welcoming environment, warm atmosphere, cordial setting.
-- **Pronunciation**: /ˈfrɛndli ˈætməsˌfɪr/
-- **Common Collocations**: Create a friendly atmosphere, enjoy a friendly atmosphere, friendly work atmosphere.
-- **Cultural Note**: This phrase is often used to describe workplaces, schools, or social gatherings where people are approachable and kind.
-- **Example**: "The café has a friendly atmosphere, so I love studying there."
-- **Practice Question**: Write a sentence describing a place with a friendly atmosphere.
+```text
+Making friends is important.
+دوست پیدا کردن مهم است.
+```
 
----
+`Making friends` یعنی فرآیند پیدا کردن دوست‌های جدید.
 
-## 3. Co-worker
-
-- **Persian Translation**: همکار (Hamkar)
-- **Part of Speech**: Noun
-- **Meaning**: A person who works with you in the same organization or on the same project.
-- **Usage**: Used to refer to colleagues or peers in a professional setting.
-- **Synonyms**: Colleague, workmate, teammate.
-- **Pronunciation**: /ˈkoʊˌwɜːrkər/
-- **Common Collocations**: Work with a co-worker, my co-worker said, help a co-worker.
-- **Cultural Note**: In English-speaking workplaces, co-workers often collaborate closely and may also socialize outside of work.
-- **Example**: "My co-worker helped me finish the project before the deadline."
-- **Practice Question**: Write a sentence about an interaction with a co-worker.
+```text
+Making friends in a new city can be hard.
+دوست پیدا کردن در یک شهر جدید می‌تواند سخت باشد.
+```
 
 ---
 
-## 4. Kind
+## ۲. توصیف محیط اجتماعی
 
-- **Persian Translation**: مهربان (Mehraban)
-- **Part of Speech**: Adjective
-- **Meaning**: Having a gentle, caring, or considerate nature.
-- **Usage**: Used to describe someone who is friendly, generous, or thoughtful.
-- **Synonyms**: Caring, compassionate, considerate, generous.
-- **Pronunciation**: /kaɪnd/
-- **Common Collocations**: Kind person, kind gesture, be kind to.
-- **Cultural Note**: Being "kind" is highly valued in English-speaking cultures, often emphasized in social and professional interactions.
-- **Example**: "She is so kind; she always helps others without expecting anything in return."
-- **Practice Question**: Write a sentence describing a kind action someone did for you.
+```text
+This cafe has a friendly atmosphere.
+این کافه فضای دوستانه‌ای دارد.
+```
+
+`Friendly atmosphere` یعنی محیطی که آدم‌ها در آن راحت، صمیمی و خوش‌برخورد هستند.
 
 ---
 
-## 5. A person who
+## ۳. همکار و آدم مهربان
 
-- **Persian Translation**: شخصی که (Shakhsi ke)
-- **Part of Speech**: Phrase (relative clause starter)
-- **Meaning**: Introduces a description of a person defined by a specific characteristic or action.
-- **Usage**: Used to specify or describe a person based on what they do or who they are.
-- **Synonyms**: Someone who, an individual who.
-- **Pronunciation**: /ə ˈpɜːrsən huː/
-- **Common Collocations**: A person who helps, a person who knows, a person who cares.
-- **Cultural Note**: This phrase is commonly used in English to provide detailed descriptions in storytelling or explanations.
-- **Example**: "I met a person who speaks five languages fluently."
-- **Practice Question**: Write a sentence using "a person who" to describe someone you know.
+```text
+My co-worker is kind.
+همکارم مهربان است.
+```
 
----
+`Co-worker` یعنی کسی که با تو در یک محل کار یا پروژه کار می‌کند.
 
-## 6. Stay
+`Kind` یعنی مهربان و با ملاحظه.
 
-- **Persian Translation**: ماندن (Mandan)
-- **Part of Speech**: Verb
-- **Meaning**: To remain in a place or condition without leaving.
-- **Usage**: Used to describe remaining in a location, situation, or state, often temporarily.
-- **Synonyms**: Remain, linger, reside.
-- **Pronunciation**: /steɪ/
-- **Common Collocations**: Stay at home, stay with, stay for a while.
-- **Cultural Note**: "Stay" is versatile and can be used in physical (stay home) or abstract (stay calm) contexts in English.
-- **Example**: "I decided to stay at the party longer because it was so fun."
-- **Practice Question**: Write a sentence using "stay" to describe where or how you remained somewhere.
+```text
+She is a kind person.
+او آدم مهربانی است.
+```
 
 ---
 
-## 7. Duty, duties
+## ۴. توصیف آدم‌ها با A person who
 
-- **Persian Translation**: وظیفه، وظایف (Vazife, vazayef)
-- **Part of Speech**: Noun (singular and plural)
-- **Meaning**: A responsibility or task that one is required or expected to perform.
-- **Usage**: Used to describe obligations, whether personal, professional, or moral.
-- **Synonyms**: Responsibility, obligation, task.
-- **Pronunciation**: /ˈdjuːti/ (duty); /ˈdjuːtiz/ (duties)
-- **Common Collocations**: Do your duty, perform duties, have a duty to.
-- **Cultural Note**: In English-speaking cultures, "duty" often carries a sense of honor or necessity, especially in professional or civic contexts.
-- **Example**: "It’s my duty to help my family, and my duties at work keep me busy."
-- **Practice Question**: Write a sentence describing one of your duties at home or work.
+برای توضیح دادن یک آدم، از `a person who` استفاده می‌کنیم.
 
----
+```text
+A kind person is a person who helps others.
+آدم مهربان کسی است که به دیگران کمک می‌کند.
+```
 
-## 8. It’s easy to do
-
-- **Persian Translation**: انجام دادنش آسان است (Anjam dadanash asan ast)
-- **Part of Speech**: Phrase (descriptive)
-- **Meaning**: Indicates that a specific task or action is not difficult to accomplish.
-- **Usage**: Used to describe tasks that require minimal effort or skill.
-- **Synonyms**: It’s simple to do, it’s not hard to do.
-- **Pronunciation**: /ɪts ˈiːzi tə duː/
-- **Common Collocations**: It’s easy to learn, it’s easy to say, it’s easy to understand.
-- **Cultural Note**: This phrase is often used to encourage someone to try something perceived as manageable.
-- **Example**: "It’s easy to do this puzzle once you know the trick."
-- **Practice Question**: Write a sentence using "it’s easy to do" to describe a simple task.
+```text
+I like a person who listens carefully.
+من کسی را دوست دارم که با دقت گوش می‌دهد.
+```
 
 ---
 
-## 9. Promise me
+## ۵. Stay
 
-- **Persian Translation**: به من قول بده (Be man ghol bede)
-- **Part of Speech**: Phrase (imperative)
-- **Meaning**: A request for someone to make a sincere commitment or assurance to do something.
-- **Usage**: Used to ask for a guarantee or commitment, often in emotional or serious contexts.
-- **Synonyms**: Swear to me, assure me, give me your word.
-- **Pronunciation**: /ˈprɒmɪs mi/
-- **Common Collocations**: Promise me you’ll, promise me that, promise me something.
-- **Cultural Note**: Making a promise in English-speaking cultures is taken seriously, and breaking a promise can affect trust.
-- **Example**: "Promise me you’ll call me when you arrive safely."
-- **Practice Question**: Write a sentence using "promise me" to ask for a commitment from someone.
+`Stay` یعنی ماندن یا در یک حالت باقی ماندن.
+
+```text
+I stayed at home.
+من در خانه ماندم.
+```
+
+```text
+Stay calm.
+آرام بمان.
+```
 
 ---
 
-## Learning Tips
+## ۶. Duty / Duties
 
-- **Practice Social Vocabulary**: Use these phrases in conversations to improve fluency in social settings.
-- **Cultural Context**: Pay attention to cultural notes to understand when and how to use these phrases appropriately.
-- **Pronunciation Practice**: Listen to native speakers (e.g., via language apps or videos) to master pronunciation.
-- **Answer the Questions**: Complete the practice questions to reinforce your understanding and usage of these phrases.
-- **Role-Play**: Practice these phrases in mock conversations (e.g., asking a co-worker for help or promising a friend) to build confidence.
+`Duty` یعنی وظیفه. جمع آن `duties` است.
+
+```text
+It's my duty to help my family.
+وظیفه من است که به خانواده‌ام کمک کنم.
+```
+
+```text
+My duties at work are simple.
+وظایفم در محل کار ساده هستند.
+```
+
+---
+
+## ۷. It's easy to do
+
+برای گفتن «انجام دادنش آسان است»:
+
+```text
+It's easy to do.
+انجام دادنش آسان است.
+```
+
+مثال:
+
+```text
+It's easy to learn this phrase.
+یاد گرفتن این عبارت آسان است.
+```
+
+---
+
+## ۸. قول دادن
+
+```text
+Promise me.
+به من قول بده.
+```
+
+معمولا بعدش یک جمله با `you will` می‌آید:
+
+```text
+Promise me you'll call me.
+به من قول بده که به من زنگ می‌زنی.
+```
+
+---
+
+## ۹. مثال‌های بیشتر با ترجمه فارسی
+
+| English | فارسی |
+|---|---|
+| `I am good at making friends.` | من در دوست پیدا کردن خوبم. |
+| `The school has a friendly atmosphere.` | مدرسه فضای دوستانه‌ای دارد. |
+| `My co-worker helped me.` | همکارم به من کمک کرد. |
+| `Be kind to people.` | با مردم مهربان باش. |
+| `A teacher is a person who teaches.` | معلم کسی است که آموزش می‌دهد. |
+| `Stay here for a while.` | مدتی اینجا بمان. |
+| `It's my duty.` | این وظیفه من است. |
+| `Promise me you'll be careful.` | قول بده مراقب باشی. |
+
+---
+
+## ۱۰. نکات نچرال انگلیسی
+
+- `Friendly atmosphere` برای کافه، مدرسه، محیط کار یا مهمانی استفاده می‌شود.
+- `Co-worker` کاری‌تر از `friend` است.
+- `Promise me` جمله احساسی و جدی است؛ بی‌دلیل زیاد استفاده نکن.
+- `Stay calm` یک عبارت خیلی کاربردی برای آرام کردن کسی است.
+
+---
+
+## ۱۱. اشتباهات رایج
+
+### اشتباه ۱: duty و duties
+
+`Duty` مفرد است و `duties` جمع.
+
+```text
+I have many duties.
+```
+
+### اشتباه ۲: حذف who
+
+غلط:
+
+```text
+A person helps others.
+```
+
+اگر می‌خواهی تعریف بدهی:
+
+```text
+A kind person is a person who helps others.
+```
+
+---
+
+## ۱۲. تمرین مکالمه
+
+1. `Are you good at making friends?`
+2. `Where can you find a friendly atmosphere?`
+3. `Is your co-worker kind?`
+4. `What is one of your duties at home?`
+5. `What is easy for you to do?`
+6. `What promise can you make to your friend?`
+
+نمونه جواب:
+
+```text
+It's my duty to study English every day.
+```
+
+---
+
+## ۱۳. خلاصه درس
+
+ساختارهای مهم:
+
+```text
+Making friends is important.
+A kind person is a person who helps others.
+It's easy to learn.
+Promise me you'll call.
+```
+
+---
+
+## ۱۴. کلمات جدید این درس
+
+| English word/phrase | معنی فارسی | Example sentence |
+|---|---|---|
+| **Making friends** | دوست پیدا کردن | `Making friends is important.` |
+| **Friendly atmosphere** | فضای دوستانه | `The cafe has a friendly atmosphere.` |
+| **Co-worker** | همکار | `My co-worker helped me.` |
+| **Kind** | مهربان | `She is kind.` |
+| **A person who** | شخصی که | `A teacher is a person who teaches.` |
+| **Stay** | ماندن | `Stay here.` |
+| **Duty** | وظیفه | `It's my duty.` |
+| **Duties** | وظایف | `I have many duties.` |
+| **It's easy to do** | انجام دادنش آسان است | `It's easy to understand.` |
+| **Promise me** | به من قول بده | `Promise me you'll call.` |
